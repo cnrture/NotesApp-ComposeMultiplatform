@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="my_notes">My Notes</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="image">Image</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_detail">Note Detail</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+</resources>
